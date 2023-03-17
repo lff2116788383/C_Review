@@ -1,0 +1,11 @@
+﻿  main.c
+D:\UserProfiles\LewisLiu\Desktop\C_Review\C_Review\main.c(75,7): warning C4013: “srand”未定义；假设外部返回 int
+D:\UserProfiles\LewisLiu\Desktop\C_Review\C_Review\main.c(76,16): warning C4013: “rand”未定义；假设外部返回 int
+D:\UserProfiles\LewisLiu\Desktop\C_Review\C_Review\main.c(190,7): warning C4101: “strArray”: 未引用的局部变量
+D:\UserProfiles\LewisLiu\Desktop\C_Review\C_Review\main.c(187,6): warning C4101: “array1”: 未引用的局部变量
+D:\UserProfiles\LewisLiu\Desktop\C_Review\C_Review\main.c(265,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\UserProfiles\LewisLiu\Desktop\C_Review\C_Review\main.c(274,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\UserProfiles\LewisLiu\Desktop\C_Review\C_Review\main.c(289,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\UserProfiles\LewisLiu\Desktop\C_Review\C_Review\main.c(315,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\UserProfiles\LewisLiu\Desktop\C_Review\C_Review\main.c(317,26): warning C4018: “<”: 有符号/无符号不匹配
+  C_Review.vcxproj -> D:\UserProfiles\LewisLiu\Desktop\C_Review\Debug\C_Review.exe
